@@ -4,4 +4,4 @@ deployment:
 hpa:
   Utilization: 5
 tgb:
-  arn: arn:aws:elasticloadbalancing:us-east-1:314146304089:targetgroup/expense-dev/936612858149b2c0
+  arn: arn:aws:elasticloadbalancing:us-east-1:314146304089:targetgroup/expense-dev/91184a2b4424466d # it will change once deleted
